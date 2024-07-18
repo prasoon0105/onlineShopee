@@ -57,5 +57,6 @@ body{
 
 
 	<%@include file="components/common_model.jsp" %>
+	<%@include file="components/footer.jsp" %>
 </body>
 </html>

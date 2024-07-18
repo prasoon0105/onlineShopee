@@ -279,5 +279,6 @@ body{
 		  $('[data-toggle="tooltip"]').tooltip()
 		})
 	</script>
+	<%@include file="components/footer.jsp" %>
 </body>
 </html>

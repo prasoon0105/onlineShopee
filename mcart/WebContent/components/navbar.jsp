@@ -34,6 +34,28 @@
         </div>
       </li>
       
+      <li class="nav-item active">
+      <a class="nav-link" href="contact.jsp">Contact Us</a>
+      </li>
+      
+      <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="socialMediaDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            Social Media
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="socialMediaDropdown">
+                            <a class="dropdown-item" href="#"><i class="fab fa-facebook-f"></i> Facebook</a>
+                            <a class="dropdown-item" href="#"><i class="fab fa-twitter"></i> Twitter</a>
+                            <a class="dropdown-item" href="#"><i class="fab fa-instagram"></i> Instagram</a>
+                        </div>
+                    </li>
+      
+       <li class="nav-item">
+                        <form class="form-inline my-2 my-lg-0">
+                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
+                        </form>
+                    </li>
+      
     </ul>
    <ul class="navbar-nav ml-auto">
    
